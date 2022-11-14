@@ -1,6 +1,6 @@
 abstract class Animal {
 
-    public static void main(String[] args) {
+    static void main() {
 
         String name;
     }
