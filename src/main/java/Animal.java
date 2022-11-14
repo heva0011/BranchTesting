@@ -1,7 +1,5 @@
-abstract class Animal {
+public abstract class Animal {
+   private String name;
 
-    static void main() {
-
-        String name;
-    }
+    public abstract void makeSound();
 }
